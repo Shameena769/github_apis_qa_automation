@@ -1,0 +1,1 @@
+config/app.properties content: | env=qa version=1.0.0
