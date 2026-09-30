@@ -1,0 +1,5 @@
+generated_by: connector-dso-sanity-suite
+run_datetime: 20260930200739
+purpose: sanity validation of connector + DSO stub integration
+
+scenario: close
