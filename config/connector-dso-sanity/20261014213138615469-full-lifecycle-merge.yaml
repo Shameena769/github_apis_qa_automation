@@ -1,0 +1,13 @@
+generated_by: connector-dso-sanity-suite
+run_datetime: 20261014213138615469
+scenario: full-lifecycle-merge
+provisioning_type: networking-vpc
+deployment:
+  account_id: "546055776891"
+  account_name: telcosharednet
+  org: tci-aws-tce-stage
+  region: eu-west-2
+vrf:
+  name: qa-robot-9a4ef92880dc
+  primary_cidr: 10.204.78.0/24
+  transit_gateway_id: tgw-0e66562d9a20c7dc6
