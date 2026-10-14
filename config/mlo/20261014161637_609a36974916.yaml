@@ -1,0 +1,15 @@
+generated_by: connector-dso-lifecycle-suite
+execution_id: 20261014161637_609a36974916
+scenario: closed-with-comments
+order_id: ORDER-5ffae695e45f
+execution_id: EXEC_5ffae695e45f
+provisioning_type: networking-vpc
+deployment:
+  account_id: "546055776891"
+  account_name: telcosharednet
+  org: tci-aws-tce-stage
+  region: eu-west-2
+vrf:
+  name: qa-robot-5ffae695e45f
+  primary_cidr: 10.245.250.0/24
+  transit_gateway_id: tgw-0e66562d9a20c7dc6
