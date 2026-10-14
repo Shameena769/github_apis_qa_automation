@@ -1,0 +1,15 @@
+generated_by: connector-dso-sanity-suite
+run_datetime: 20261014162831384464
+scenario: s3-upload
+order_id: ORDER-bbfc84e28a09
+execution_id: EXEC_bbfc84e28a09
+provisioning_type: networking-vpc
+deployment:
+  account_id: "546055776891"
+  account_name: telcosharednet
+  org: tci-aws-tce-stage
+  region: eu-west-2
+vrf:
+  name: qa-robot-bbfc84e28a09
+  primary_cidr: 10.237.252.0/24
+  transit_gateway_id: tgw-0e66562d9a20c7dc6
